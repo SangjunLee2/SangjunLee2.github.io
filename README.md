@@ -12,7 +12,7 @@ Coursework: Data Structure, Algorithm, System Program, Discrete Mathematics, Lin
 ---
 
 
-Skills: c,c++,java
+Skills: c,c++,java,python
 
 ---
 
